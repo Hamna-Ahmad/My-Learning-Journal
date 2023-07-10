@@ -54,7 +54,7 @@ function renderLess(){
 
     <!-- Blog 2 -->
             <section class="blog-post">
-                <img src="https://www.bhmpics.com/downloads/Light-Bulb-Wallpapers-(30-+-Background-Pictures)/76.943629275.jpg" alt="colourful lightbulb">
+                <img src="https://images.squarespace-cdn.com/content/v1/56acc1138a65e2a286012c54/1646239234675-Z2CKTQUFNDVT3QRGJZT6/bulb-gbb90ff0a9_1920.jpg?format=750w" alt="colourful lightbulb">
                 <h3>JULY 23, 2022</h3>
                 <h2>Blog two</h2>
                 <p>I'm excited to start a new learning journey as a Scrimba Bootcamp student! After several months of learning in the Frontend Developer Career Path.</p>
